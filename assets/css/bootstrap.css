@@ -459,7 +459,7 @@ h4,
 }
 h5,
 .h5 {
-  font-size: 14px;
+  font-size: 16px;
 }
 h6,
 .h6 {
@@ -503,6 +503,9 @@ cite {
 }
 .text-primary {
   color: #428bca;
+}
+.text-white {
+  color: white;
 }
 a.text-primary:hover {
   color: #3071a9;
@@ -5778,4 +5781,5 @@ button.close {
     display: none !important;
   }
 }
+
 /*# sourceMappingURL=bootstrap.css.map */

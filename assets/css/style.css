@@ -106,7 +106,7 @@ color: #000;
 #home-sec { 
   
     
-background: url(../img/home.jpg) no-repeat 50% 50%;
+background: url(../img/home.JPEG) no-repeat 50% 50%;
 background-attachment: fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -115,8 +115,8 @@ background-size: cover;
 width: 100%;
 display: block;
 height: auto;
- padding-top:190px;
-   min-height:650px;
+ padding-top:360px;
+   min-height:800px;
     color:#fff;
 }
 
